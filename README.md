@@ -20,12 +20,6 @@
 <br/>
 <hr />
 
-<div align="center">
-  <a href="https://github.com/edutavr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edutavr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edutavr&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## ⚡ Technologies I love and use
   
 <div style="display: inline_block"><br>
