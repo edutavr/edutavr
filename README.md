@@ -11,13 +11,11 @@
 </a>
 --->
 
-<br/>
 
 ### About Me 🚀
 💻 I’m a *Full Stack Developer*, currently studying Computer Engineering at the University of Pernambuco (UPE). </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
     
-<br/>
 <hr />
 
 ## ⚡ Technologies I love and use
