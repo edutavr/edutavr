@@ -20,7 +20,7 @@ I’m a developer interested in building reliable applications and understanding
 
 I enjoy connecting **software development** with **cybersecurity** to build better, safer, and more resilient systems.
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight)
+![Eduardo's GitHub stats](https://github-readme-stats-jade-seven-84.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!--
 
