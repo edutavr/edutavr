@@ -1,13 +1,14 @@
+
 <h1>
+  Hi, I'm Eduardo Távora Rocha&nbsp;
   <a href="https://www.linkedin.com/in/eduardo-tavora/">
     <img 
       src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" 
       alt="LinkedIn" 
-      width="36"
+      width="29"
       align="bottom"
     />
-  </a>&nbsp;
-  Hi, I'm Eduardo Távora Rocha
+  </a>
 </h1>
 
 <h3>SOC / Cybersecurity · Full Stack Developer · Computer Engineering Undergraduate</h3>
@@ -21,7 +22,15 @@ I’m a developer interested in building reliable applications and understanding
 I enjoy connecting **software development** with **cybersecurity** to build better, safer, and more resilient systems.
 </br></br>
 
-![Eduardo's GitHub stats](https://github-readme-stats-jade-seven-84.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
+  <img
+    height="165"
+    src="https://github-readme-stats-jade-seven-84.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
+  />
+  &nbsp;&nbsp;
+  <img
+    height="165"
+    src="https://github-readme-stats-jade-seven-84.vercel.app/api/top-langs/?username=edutavr&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"
+  />
 
 <!--
 
