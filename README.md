@@ -1,22 +1,28 @@
-### Hi there! I'm EDUARDO TÁVORA ROCHA, welcome to my GitHub. 🌱
+<h1>
+  <a href="https://www.linkedin.com/in/eduardo-tavora/">
+    <img 
+      src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" 
+      alt="LinkedIn" 
+      width="36"
+      align="bottom"
+    />
+  </a>&nbsp;
+  Hi, I'm Eduardo Távora Rocha
+</h1>
 
-<hr />
+<h3>SOC / Cybersecurity · Full Stack Developer · Computer Engineering Undergraduate</h3>
 
-<a href="https://www.linkedin.com/in/eduardo-tavora/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<!---
-<a href="mailto:@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
---->
+I’m a **Computer Engineering undergraduate student at the University of Pernambuco — UPE**, currently working with **Security Operations Center (SOC)**, cybersecurity monitoring, alert analysis, and incident response.
 
+## About me
 
-### About Me 🚀
-💻 I’m a *Full Stack Developer*, currently studying Computer Engineering at the University of Pernambuco (UPE). </br> </br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
-    
-<hr />
+I’m a developer interested in building reliable applications and understanding how systems behave from both a software engineering and security perspective.
+
+I enjoy connecting **software development** with **cybersecurity** to build better, safer, and more resilient systems.
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight)
+
+<!--
 
 ## ⚡ Technologies I love and use
 
@@ -35,7 +41,6 @@
                                                               
 </div>
 
-<!--
 <img align="center" alt="tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 <img align="center" alt="selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 <img align="center" alt="swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
