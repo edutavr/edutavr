@@ -19,8 +19,9 @@ I’m a **Computer Engineering undergraduate student at the University of Pernam
 I’m a developer interested in building reliable applications and understanding how systems behave from both a software engineering and security perspective.
 
 I enjoy connecting **software development** with **cybersecurity** to build better, safer, and more resilient systems.
+</br></br>
 
-![Eduardo's GitHub stats](https://github-readme-stats-jade-seven-84.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight&hide_border=true)
+![Eduardo's GitHub stats](https://github-readme-stats-jade-seven-84.vercel.app/api?username=edutavr&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
 
 <!--
 
